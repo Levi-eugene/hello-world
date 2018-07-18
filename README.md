@@ -1,3 +1,3 @@
 # hello-world
-Just starting out her
+Just starting out here
 Here to learn something new!
